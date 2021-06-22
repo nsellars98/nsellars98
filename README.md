@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsellars98! I am a highly motivated, enthusiastic software engineer with over three years of coding experience proficient in the following: HTML5, CSS3, JavaScript, PHP, Java, C#, C++, and SQL.
+- 👋 Hi, I’m @nsellars98! I am a highly motivated, enthusiastic software engineer with over three years of coding experience with proficiency in the following: HTML5, CSS3, JavaScript, PHP, Java, C#, C++, and SQL.
 
 - 👀 I’m interested in Full Stack Development and blockchain technologies including Ethereum and Solidity.
 - 🌱 I’m currently learning the in demand skills of a Front End Developer to meet the needs of today's rapidly changing technological environment.
